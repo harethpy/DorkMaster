@@ -21,6 +21,6 @@
 - **URL to Keywords**: Extracts keywords from URLs to help generate relevant dorks.
 
 Legacy (Those features are not maintained):
-- **Keyword Scraper **: Legacy tool for scraping keywords from web content.
-- **Bing Dork Generator **: Legacy tool for generating dorks specifically for Bing searches.
-- **Dork Generator **: A reimagined tool for generating a wide range of dorks for various search engines.
+- **Keyword Scraper**: Legacy tool for scraping keywords from web content.
+- **Bing Dork Generator**: Legacy tool for generating dorks specifically for Bing searches.
+- **Dork Generator**: A reimagined tool for generating a wide range of dorks for various search engines.
