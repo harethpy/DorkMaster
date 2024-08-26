@@ -20,15 +20,7 @@
 - **Proxy Checker**: Verifies the functionality and anonymity level of proxy servers.
 - **URL to Keywords**: Extracts keywords from URLs to help generate relevant dorks.
 
-Legacy:
-- **Keyword Scraper (Deprecated)**: Legacy tool for scraping keywords from web content.
-- **Bing Dork Generator (Deprecated)**: Legacy tool for generating dorks specifically for Bing searches.
-- **Dork Generator (Rebranded)**: A reimagined tool for generating a wide range of dorks for various search engines.
-## Installation
-
-To install and use **DorkMaster**, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/DorkMaster.git
-   cd DorkMaster
+Legacy (Those features are not maintained):
+- **Keyword Scraper **: Legacy tool for scraping keywords from web content.
+- **Bing Dork Generator **: Legacy tool for generating dorks specifically for Bing searches.
+- **Dork Generator **: A reimagined tool for generating a wide range of dorks for various search engines.
